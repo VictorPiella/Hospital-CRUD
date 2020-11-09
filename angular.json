@@ -123,6 +123,6 @@
   },
   "defaultProject": "adminpro",
   "cli": {
-    "analytics": "87a58d13-035a-4d18-ab00-1875813ca835"
+    "analytics": false
   }
 }
